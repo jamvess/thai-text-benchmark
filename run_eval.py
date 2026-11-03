@@ -11,6 +11,7 @@ PRICES = {  # USD ต่อ 1M token: (input, output) ณ มิ.ย. 2026
     "openai/gpt-oss-20b": (0.075, 0.30),
     "openai/gpt-oss-120b": (0.15, 0.60),
     "meta-llama/llama-4-scout-17b-16e-instruct": (0.11, 0.34),
+    "qwen/qwen3.8-27b": (0.80, 4.00),
 }
 
 
